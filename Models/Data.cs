@@ -12,6 +12,8 @@ namespace stickynotes.Data {
         }
 
         // create a model, then insert a dbset here that matches it.
-        // public DbSet<Movie> Movie { get; set; }
+        public DbSet<Note> Note { get; set; }
+
+
     }
 }

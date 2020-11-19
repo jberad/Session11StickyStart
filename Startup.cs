@@ -29,6 +29,7 @@ namespace stickynotes
 
             string myConnectionString = "Data Source=stickies.sqlite";
             services.AddDbContext<stickynotes.Data.StickyContext>(options => options.UseSqlite(myConnectionString));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
