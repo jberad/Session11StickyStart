@@ -20,3 +20,8 @@ Extra super bonus!
 * make the table in the db - 'migrate'
 * run it! make sure you can create stickies!
 * start making it look/work like you actually want it to.
+
+
+1. Don't redirect to new page/button
+2. Code to create sticky - copy and put on index page
+3. Post Create code - save the sticky - call it from somewhere else or do we use a new function to do save

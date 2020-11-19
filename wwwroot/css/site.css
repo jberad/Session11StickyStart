@@ -91,3 +91,17 @@ body {
 .Stickynote:hover {
   background-color: fuchsia;
 }
+
+.entry {
+  margin-bottom: 10px;
+        margin: 10px;
+        padding: 10px;
+        height: 250px;
+        width: 300px;
+        background-color: orange;
+        box-shadow: 10px 10px 5px gray;
+        justify-content: space-around;
+        word-wrap: normal;    
+        border: none;
+        outline: none; 
+}
